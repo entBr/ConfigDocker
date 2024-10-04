@@ -27,4 +27,4 @@ jobs:
       with:
         context: .  
         push: true  
-        tags: brent505/suma:1.0  
+        tags: brent505/suma:1.1  
